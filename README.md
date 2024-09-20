@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="550" src="https://s8.uupload.ir/files/681b888e8876ce6622ffac0d9acaf52ennnnn_2in4.png"  />
-</div>
+<h1 align="center">Hi, I'm Nima Hamzehee 👋</h1>
 
 ###
 
@@ -21,10 +19,6 @@
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Nima-Hmz.Nima-Hmz&right_color=darkolivegreen"  />
 </div>
-
-###
-
-<h1 align="center">Hi, I'm Nima Hamzehee 👋</h1>
 
 ###
 
