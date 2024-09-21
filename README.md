@@ -17,7 +17,7 @@
 ###
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nima-Hmz.Nima-Hmz&right_color=darkolivegreen"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nima-Hmz.Nima-Hmz&"  />
 </div>
 
 ###
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">- 🧍 I’m 20 years old and I live in Iran/Tehran<br>- 📚 Bachelor's student in Computer engineering<br>- ⚡ Passionate back-end developer<br>- ⛰️ Loves linux and mountaineering <br>- 😄 Eager to collaborate on your projects</p>
+<p align="left">- 📚 Bachelor's student majoring in Computer Engineering<br>- ⚡ Passionate back-end developer<br>- 🧍 20 years old, living in Tehran, Iran<br>- ⛰️ Loves linux and mountaineering <br>- 😄 Excited to collaborate on new projects!</p>
 
 ###
 
