@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">- 📚 Bachelor's student majoring in Computer Engineering<br>- ⚡ Passionate back-end developer<br>- 🧍 21 years old, living in Tehran, Iran<br>- ⛰️ Loves linux and mountaineering <br>- 😄 Excited to collaborate on new projects!</p>
+<p align="left">- 📚 computer engineering student<br>- ⚡ Passionate back-end developer<br>- 🧍 22 years old, living in Tehran, Iran<br>- ⛰️ Loves linux and mountaineering <br>- 😄 Excited to collaborate on new projects!</p>
 
 ###
 
